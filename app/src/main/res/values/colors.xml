@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="blue">#1C86EE</color>
+    <color name="write">#ffffff</color>
+    <color name="hint_foreground_dark">#808080</color>
+    <color name="dim_foreground_dark_disabled">#80bebebe</color>
+    <color name="notification_action_list_dark">#ffe0e0e0</color>
+</resources>
